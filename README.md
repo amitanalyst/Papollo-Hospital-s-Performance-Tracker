@@ -21,20 +21,11 @@ To build a centralized dashboard that enables real-time hospital performance mon
 
 📊 Dashboard Features
 
-Patient Journey Tracking:
-Admit date, discharge date, and follow-up status visualized clearly for continuity of care.
-
-Bed Occupancy Monitoring:
-Live count and trend analysis of occupied beds across ICU, General, and Private wards.
-
-Doctor Feedback Volume:
-Interactive charts showing how many feedback entries each doctor has received.
-
-Diagnosis Insights:
-Distribution of various diagnosis types with patient volume and trend comparisons.
-
-Billing & Insurance Comparison:
-Breakdown of billing amount vs. amount covered under health insurance across disease types.
+Patient Journey Tracking: Admit date, discharge date, and follow-up status visualized clearly for continuity of care.
+Bed Occupancy Monitoring: Live count and trend analysis of occupied beds across ICU, General, and Private wards.
+Doctor Feedback Volume: Interactive charts showing how many feedback entries each doctor has received.
+Diagnosis Insights: Distribution of various diagnosis types with patient volume and trend comparisons.
+Billing & Insurance Comparison: Breakdown of billing amount vs. amount covered under health insurance across disease types.
 
 ✅ Outcomes
 
