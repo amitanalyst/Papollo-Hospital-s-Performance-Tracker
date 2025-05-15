@@ -5,9 +5,7 @@ This project presents a comprehensive data analytics dashboard developed to moni
 🔧 Technologies Used
 
 Python: Used for data cleaning, formatting, and initial exploration. Libraries like pandas, numpy, and matplotlib were used.
-
 SQL: Utilized to perform advanced querying on hospital databases, filter patient records, and aggregate key metrics like revenue, diagnosis count, and occupancy rate.
-
 Power BI: The core tool used to create dynamic and interactive visualizations. It helps stakeholders understand trends and KPIs through rich visuals.
 
 🎯 Project Objectives
