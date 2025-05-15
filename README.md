@@ -3,6 +3,7 @@
 This project presents a comprehensive data analytics dashboard developed to monitor and improve the performance of Papollo Hospital. Using a combination of Python, SQL, and Power BI, the project extracts meaningful insights from hospital data to assist in better decision-making, patient care, and operational management.
 
 🔧 Technologies Used
+
 Python: Used for data cleaning, formatting, and initial exploration. Libraries like pandas, numpy, and matplotlib were used.
 
 SQL: Utilized to perform advanced querying on hospital databases, filter patient records, and aggregate key metrics like revenue, diagnosis count, and occupancy rate.
@@ -10,6 +11,7 @@ SQL: Utilized to perform advanced querying on hospital databases, filter patient
 Power BI: The core tool used to create dynamic and interactive visualizations. It helps stakeholders understand trends and KPIs through rich visuals.
 
 🎯 Project Objectives
+
 To track patient data including admit date, discharge date, and follow-up appointments.
 
 To monitor bed occupancy across various departments: Private, General, and ICU.
@@ -23,6 +25,7 @@ To compare billing amounts vs. health insurance claims, enabling better financia
 To build a centralized dashboard that enables real-time hospital performance monitoring.
 
 📊 Dashboard Features
+
 Patient Journey Tracking:
 
 Admit date, discharge date, and follow-up status visualized clearly for continuity of care.
@@ -43,8 +46,8 @@ Billing & Insurance Comparison:
 
 Breakdown of billing amount vs. amount covered under health insurance across disease types.
 
-
 ✅ Outcomes
+
 Improved transparency in hospital operations
 
 Identified diagnosis types leading to higher billing vs. lower insurance coverage
